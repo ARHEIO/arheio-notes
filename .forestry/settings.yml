@@ -12,7 +12,7 @@ sections:
   read_only: true
 - type: directory
   path: "./dev-notes"
-  label: dev-notes
+  label: Developer Notes
   create: documents
   match: "**/*"
 upload_dir: uploads
