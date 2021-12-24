@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Documents
 - type: document
-  path: "./README.md"
+  path: README.md
   label: Readme
   read_only: true
 - type: directory
