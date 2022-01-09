@@ -21,3 +21,7 @@ You can be fancy and check for a specific number of args
       echo "Must supply exactly one argument"
       exit 1
     fi
+
+fin
+
+***
