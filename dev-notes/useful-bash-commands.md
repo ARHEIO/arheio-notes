@@ -22,6 +22,6 @@ You can be fancy and check for a specific number of args
       exit 1
     fi
 
-fin
+fin 
 
 ***
