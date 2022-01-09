@@ -9,3 +9,4 @@ fields:
   label: Title
 pages:
 - "./dev-notes/forestry-and-the-dev-blog.md"
+- "./dev-notes/useful-bash-commands.md"
