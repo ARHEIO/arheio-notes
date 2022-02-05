@@ -15,6 +15,13 @@ sections:
   label: Developer Notes
   create: documents
   match: "**/*"
+- type: directory
+  path: "./pocs"
+  label: pocs
+  create: all
+  match: "**/*"
+  templates:
+  - notes
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
