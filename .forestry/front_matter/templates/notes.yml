@@ -8,9 +8,4 @@ fields:
     required: false
   label: Title
 pages:
-- "./dev-notes/forestry-and-the-dev-blog.md"
-- "./dev-notes/functional-programming.md"
-- "./dev-notes/glossary.md"
-- "./dev-notes/ports-and-adapters.md"
-- "./dev-notes/useful-bash-commands.md"
-- "./dev-notes/useful-github-repositories.md"
+- "./pocs/checkbox.md"
