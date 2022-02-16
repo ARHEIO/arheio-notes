@@ -9,3 +9,4 @@ fields:
   label: Title
 pages:
 - "./pocs/checkbox.md"
+- "./pocs/chip.md"
