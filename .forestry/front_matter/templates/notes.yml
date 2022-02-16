@@ -11,3 +11,4 @@ pages:
 - "./pocs/button.md"
 - "./pocs/checkbox.md"
 - "./pocs/chip.md"
+- "./pocs/fielderrors.md"
