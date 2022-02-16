@@ -8,5 +8,6 @@ fields:
     required: false
   label: Title
 pages:
+- "./pocs/button.md"
 - "./pocs/checkbox.md"
 - "./pocs/chip.md"
